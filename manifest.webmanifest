@@ -1,0 +1,19 @@
+{
+  "name": "Armor Simulation",
+  "short_name": "Armor Sim",
+  "description": "An impact laboratory: projectiles against armour, structures and vehicles, with deformation, fracture and heat that follow from the properties of the materials.",
+  "lang": "en",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "orientation": "landscape",
+  "background_color": "#0b0e13",
+  "theme_color": "#0b0e13",
+  "categories": ["education", "simulation", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
